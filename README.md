@@ -1,6 +1,9 @@
 # Printing-Pattern-Using-Loops-hackerrank_Using_C_Second_Method
 Printing Number Pattern Using Loops Using C Programming Language  
   
+# Color Code Help You Understand Solution  
+![alt text](https://github.com/OmarElfatatry/Printing-Pattern-Using-Loops-hackerrank_Using_C-Second-Method/blob/main/06.png?raw=true)  
+  
 # Results
   
 ![alt text](https://github.com/OmarElfatatry/Printing-Pattern-Using-Loops-hackerrank_Using_C-Second-Method/blob/main/01.png?raw=true)  
